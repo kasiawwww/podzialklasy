@@ -52,6 +52,7 @@
     <Compile Include="Door\IWoodenDoor.cs" />
     <Compile Include="Door\SmartDoor.cs" />
     <Compile Include="Door\WoodenDoor.cs" />
+    <Compile Include="KISS\XY.cs" />
     <Compile Include="Messenger\Email.cs" />
     <Compile Include="Messenger\IMessageProvider.cs" />
     <Compile Include="Messenger\Messenger.cs" />
@@ -68,6 +69,7 @@
     <Compile Include="Person\PersonWork.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Singleton\Login.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
